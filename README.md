@@ -12,8 +12,8 @@ Write a command-line program that can read a file containing a Sudoku grid and v
 
 To start, you'll want to clone and run the setup script for the repo
 
-    git clone git@github.com:thoughtbot-upcase-exercises/sudoku-validator.git
-    cd sudoku-validator
+    gh repo clone primaulia/sudoku-tester
+    cd sudoku-tester
     bin/setup
 
 Sample usage:
