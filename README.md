@@ -16,22 +16,6 @@ To start, you'll want to clone and run the setup script for the repo
     cd sudoku-tester
     bin/setup
 
-Sample usage:
-
-```
-$ ./sudoku-validator valid_complete.sudoku
-  This sudoku is valid.
-
-$ ./sudoku-validator valid_incomplete.sudoku
-  This sudoku is valid, but incomplete.
-
-$ ./sudoku-validator invalid_complete.sudoku
-  This sudoku is invalid.
-
-$ ./sudoku-validator invalid_incomplete.sudoku
-  This sudoku is invalid.
-```
-
 A Sudoku is valid if:
 
 1. It has no duplicates in a row
