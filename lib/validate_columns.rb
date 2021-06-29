@@ -1,0 +1,3 @@
+class ValidateColumns
+  
+end
